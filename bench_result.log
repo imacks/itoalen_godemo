@@ -1,0 +1,234 @@
+BenchmarkItoalenWithItoa
+BenchmarkItoalenWithItoa/intlen_1
+BenchmarkItoalenWithItoa/intlen_1-2             316194842                3.459 ns/op
+BenchmarkItoalenWithItoa/intlen_2
+BenchmarkItoalenWithItoa/intlen_2-2             318076690                3.779 ns/op
+BenchmarkItoalenWithItoa/intlen_3
+BenchmarkItoalenWithItoa/intlen_3-2             34611874                32.39 ns/op
+BenchmarkItoalenWithItoa/intlen_4
+BenchmarkItoalenWithItoa/intlen_4-2             32255755                34.18 ns/op
+BenchmarkItoalenWithItoa/intlen_5
+BenchmarkItoalenWithItoa/intlen_5-2             30943096                35.46 ns/op
+BenchmarkItoalenWithItoa/intlen_6
+BenchmarkItoalenWithItoa/intlen_6-2             28927386                38.20 ns/op
+BenchmarkItoalenWithItoa/intlen_7
+BenchmarkItoalenWithItoa/intlen_7-2             27594337                40.54 ns/op
+BenchmarkItoalenWithItoa/intlen_8
+BenchmarkItoalenWithItoa/intlen_8-2             27328072                41.14 ns/op
+BenchmarkItoalenWithItoa/intlen_9
+BenchmarkItoalenWithItoa/intlen_9-2             22110084                51.33 ns/op
+BenchmarkItoalenWithItoa/intlen_10
+BenchmarkItoalenWithItoa/intlen_10-2            22038555                51.76 ns/op
+BenchmarkItoalenWithItoa/intlen_11
+BenchmarkItoalenWithItoa/intlen_11-2            20533717                54.29 ns/op
+BenchmarkItoalenWithItoa/intlen_12
+BenchmarkItoalenWithItoa/intlen_12-2            20704716                55.14 ns/op
+BenchmarkItoalenWithItoa/intlen_13
+BenchmarkItoalenWithItoa/intlen_13-2            19662878                57.45 ns/op
+BenchmarkItoalenWithItoa/intlen_14
+BenchmarkItoalenWithItoa/intlen_14-2            19556230                59.34 ns/op
+BenchmarkItoalenWithItoa/intlen_15
+BenchmarkItoalenWithItoa/intlen_15-2            18619100                63.87 ns/op
+BenchmarkItoalenWithItoa/intlen_16
+BenchmarkItoalenWithItoa/intlen_16-2            18485186                64.48 ns/op
+BenchmarkItoalenWithItoa/intlen_17
+BenchmarkItoalenWithItoa/intlen_17-2            17202451                69.17 ns/op
+BenchmarkItoalenWithItoa/intlen_18
+BenchmarkItoalenWithItoa/intlen_18-2            14867442                69.81 ns/op
+BenchmarkItoalenWithItoa/intlen_19
+BenchmarkItoalenWithItoa/intlen_19-2            16128242                72.79 ns/op
+BenchmarkItoalenWithLog
+BenchmarkItoalenWithLog/intlen_1
+BenchmarkItoalenWithLog/intlen_1-2              474155773                2.460 ns/op
+BenchmarkItoalenWithLog/intlen_2
+BenchmarkItoalenWithLog/intlen_2-2              67483516                17.79 ns/op
+BenchmarkItoalenWithLog/intlen_3
+BenchmarkItoalenWithLog/intlen_3-2              67569716                17.73 ns/op
+BenchmarkItoalenWithLog/intlen_4
+BenchmarkItoalenWithLog/intlen_4-2              66763617                17.78 ns/op
+BenchmarkItoalenWithLog/intlen_5
+BenchmarkItoalenWithLog/intlen_5-2              66664999                17.62 ns/op
+BenchmarkItoalenWithLog/intlen_6
+BenchmarkItoalenWithLog/intlen_6-2              66239217                18.10 ns/op
+BenchmarkItoalenWithLog/intlen_7
+BenchmarkItoalenWithLog/intlen_7-2              65753467                17.72 ns/op
+BenchmarkItoalenWithLog/intlen_8
+BenchmarkItoalenWithLog/intlen_8-2              66206838                17.93 ns/op
+BenchmarkItoalenWithLog/intlen_9
+BenchmarkItoalenWithLog/intlen_9-2              67537951                17.78 ns/op
+BenchmarkItoalenWithLog/intlen_10
+BenchmarkItoalenWithLog/intlen_10-2             65589747                17.99 ns/op
+BenchmarkItoalenWithLog/intlen_11
+BenchmarkItoalenWithLog/intlen_11-2             64775624                17.71 ns/op
+BenchmarkItoalenWithLog/intlen_12
+BenchmarkItoalenWithLog/intlen_12-2             67886115                17.57 ns/op
+BenchmarkItoalenWithLog/intlen_13
+BenchmarkItoalenWithLog/intlen_13-2             66794056                17.59 ns/op
+BenchmarkItoalenWithLog/intlen_14
+BenchmarkItoalenWithLog/intlen_14-2             66066183                17.65 ns/op
+BenchmarkItoalenWithLog/intlen_15
+BenchmarkItoalenWithLog/intlen_15-2             66800132                17.63 ns/op
+BenchmarkItoalenWithLog/intlen_16
+BenchmarkItoalenWithLog/intlen_16-2             65291062                17.62 ns/op
+BenchmarkItoalenWithLog/intlen_17
+BenchmarkItoalenWithLog/intlen_17-2             66433958                17.81 ns/op
+BenchmarkItoalenWithLog/intlen_18
+BenchmarkItoalenWithLog/intlen_18-2             63779929                17.74 ns/op
+BenchmarkItoalenWithLog/intlen_19
+BenchmarkItoalenWithLog/intlen_19-2             66573381                17.62 ns/op
+BenchmarkItoalenWithMul
+BenchmarkItoalenWithMul/intlen_1
+BenchmarkItoalenWithMul/intlen_1-2              1000000000               0.8181 ns/op
+BenchmarkItoalenWithMul/intlen_2
+BenchmarkItoalenWithMul/intlen_2-2              375073473                3.150 ns/op
+BenchmarkItoalenWithMul/intlen_3
+BenchmarkItoalenWithMul/intlen_3-2              204396970                5.872 ns/op
+BenchmarkItoalenWithMul/intlen_4
+BenchmarkItoalenWithMul/intlen_4-2              188880052                6.464 ns/op
+BenchmarkItoalenWithMul/intlen_5
+BenchmarkItoalenWithMul/intlen_5-2              168566766                7.148 ns/op
+BenchmarkItoalenWithMul/intlen_6
+BenchmarkItoalenWithMul/intlen_6-2              154387830                7.771 ns/op
+BenchmarkItoalenWithMul/intlen_7
+BenchmarkItoalenWithMul/intlen_7-2              142810690                8.435 ns/op
+BenchmarkItoalenWithMul/intlen_8
+BenchmarkItoalenWithMul/intlen_8-2              124203585                9.028 ns/op
+BenchmarkItoalenWithMul/intlen_9
+BenchmarkItoalenWithMul/intlen_9-2              123367472                9.712 ns/op
+BenchmarkItoalenWithMul/intlen_10
+BenchmarkItoalenWithMul/intlen_10-2             100000000               10.45 ns/op
+BenchmarkItoalenWithMul/intlen_11
+BenchmarkItoalenWithMul/intlen_11-2             100000000               11.07 ns/op
+BenchmarkItoalenWithMul/intlen_12
+BenchmarkItoalenWithMul/intlen_12-2             100000000               11.79 ns/op
+BenchmarkItoalenWithMul/intlen_13
+BenchmarkItoalenWithMul/intlen_13-2             94935552                12.44 ns/op
+BenchmarkItoalenWithMul/intlen_14
+BenchmarkItoalenWithMul/intlen_14-2             87206728                13.22 ns/op
+BenchmarkItoalenWithMul/intlen_15
+BenchmarkItoalenWithMul/intlen_15-2             83847656                13.95 ns/op
+BenchmarkItoalenWithMul/intlen_16
+BenchmarkItoalenWithMul/intlen_16-2             77818785                14.55 ns/op
+BenchmarkItoalenWithMul/intlen_17
+BenchmarkItoalenWithMul/intlen_17-2             68785149                15.21 ns/op
+BenchmarkItoalenWithMul/intlen_18
+BenchmarkItoalenWithMul/intlen_18-2             73840873                16.09 ns/op
+BenchmarkItoalenWithMul/intlen_19
+BenchmarkItoalenWithMul/intlen_19-2             771496014                1.547 ns/op
+BenchmarkItoalenWithMul2
+BenchmarkItoalenWithMul2/intlen_1
+BenchmarkItoalenWithMul2/intlen_1-2             1000000000               0.8701 ns/op
+BenchmarkItoalenWithMul2/intlen_2
+BenchmarkItoalenWithMul2/intlen_2-2             387943950                3.092 ns/op
+BenchmarkItoalenWithMul2/intlen_3
+BenchmarkItoalenWithMul2/intlen_3-2             201571004                5.939 ns/op
+BenchmarkItoalenWithMul2/intlen_4
+BenchmarkItoalenWithMul2/intlen_4-2             189671576                6.325 ns/op
+BenchmarkItoalenWithMul2/intlen_5
+BenchmarkItoalenWithMul2/intlen_5-2             170701636                7.103 ns/op
+BenchmarkItoalenWithMul2/intlen_6
+BenchmarkItoalenWithMul2/intlen_6-2             154788295                7.716 ns/op
+BenchmarkItoalenWithMul2/intlen_7
+BenchmarkItoalenWithMul2/intlen_7-2             142664797                8.463 ns/op
+BenchmarkItoalenWithMul2/intlen_8
+BenchmarkItoalenWithMul2/intlen_8-2             132115453                9.157 ns/op
+BenchmarkItoalenWithMul2/intlen_9
+BenchmarkItoalenWithMul2/intlen_9-2             123374550                9.800 ns/op
+BenchmarkItoalenWithMul2/intlen_10
+BenchmarkItoalenWithMul2/intlen_10-2            100000000               10.49 ns/op
+BenchmarkItoalenWithMul2/intlen_11
+BenchmarkItoalenWithMul2/intlen_11-2            100000000               11.19 ns/op
+BenchmarkItoalenWithMul2/intlen_12
+BenchmarkItoalenWithMul2/intlen_12-2            98468292                11.86 ns/op
+BenchmarkItoalenWithMul2/intlen_13
+BenchmarkItoalenWithMul2/intlen_13-2            85986943                12.51 ns/op
+BenchmarkItoalenWithMul2/intlen_14
+BenchmarkItoalenWithMul2/intlen_14-2            87396512                13.19 ns/op
+BenchmarkItoalenWithMul2/intlen_15
+BenchmarkItoalenWithMul2/intlen_15-2            85396640                14.01 ns/op
+BenchmarkItoalenWithMul2/intlen_16
+BenchmarkItoalenWithMul2/intlen_16-2            80560874                14.71 ns/op
+BenchmarkItoalenWithMul2/intlen_17
+BenchmarkItoalenWithMul2/intlen_17-2            75713203                15.34 ns/op
+BenchmarkItoalenWithMul2/intlen_18
+BenchmarkItoalenWithMul2/intlen_18-2            73620592                16.07 ns/op
+BenchmarkItoalenWithMul2/intlen_19
+BenchmarkItoalenWithMul2/intlen_19-2            776254653                1.544 ns/op
+BenchmarkItoalenWithDiv2
+BenchmarkItoalenWithDiv2/intlen_1
+BenchmarkItoalenWithDiv2/intlen_1-2             233193223                5.134 ns/op
+BenchmarkItoalenWithDiv2/intlen_2
+BenchmarkItoalenWithDiv2/intlen_2-2             231704451                5.127 ns/op
+BenchmarkItoalenWithDiv2/intlen_3
+BenchmarkItoalenWithDiv2/intlen_3-2             205957234                5.833 ns/op
+BenchmarkItoalenWithDiv2/intlen_4
+BenchmarkItoalenWithDiv2/intlen_4-2             204161380                5.869 ns/op
+BenchmarkItoalenWithDiv2/intlen_5
+BenchmarkItoalenWithDiv2/intlen_5-2             217946575                5.481 ns/op
+BenchmarkItoalenWithDiv2/intlen_6
+BenchmarkItoalenWithDiv2/intlen_6-2             218359429                5.547 ns/op
+BenchmarkItoalenWithDiv2/intlen_7
+BenchmarkItoalenWithDiv2/intlen_7-2             194212354                6.218 ns/op
+BenchmarkItoalenWithDiv2/intlen_8
+BenchmarkItoalenWithDiv2/intlen_8-2             193668346                6.225 ns/op
+BenchmarkItoalenWithDiv2/intlen_9
+BenchmarkItoalenWithDiv2/intlen_9-2             194247980                6.196 ns/op
+BenchmarkItoalenWithDiv2/intlen_10
+BenchmarkItoalenWithDiv2/intlen_10-2            192124662                6.480 ns/op
+BenchmarkItoalenWithDiv2/intlen_11
+BenchmarkItoalenWithDiv2/intlen_11-2            165696194                7.038 ns/op
+BenchmarkItoalenWithDiv2/intlen_12
+BenchmarkItoalenWithDiv2/intlen_12-2            170606030                7.011 ns/op
+BenchmarkItoalenWithDiv2/intlen_13
+BenchmarkItoalenWithDiv2/intlen_13-2            176452785                6.794 ns/op
+BenchmarkItoalenWithDiv2/intlen_14
+BenchmarkItoalenWithDiv2/intlen_14-2            178924650                6.701 ns/op
+BenchmarkItoalenWithDiv2/intlen_15
+BenchmarkItoalenWithDiv2/intlen_15-2            158304373                7.308 ns/op
+BenchmarkItoalenWithDiv2/intlen_16
+BenchmarkItoalenWithDiv2/intlen_16-2            161454736                7.448 ns/op
+BenchmarkItoalenWithDiv2/intlen_17
+BenchmarkItoalenWithDiv2/intlen_17-2            226552999                5.234 ns/op
+BenchmarkItoalenWithDiv2/intlen_18
+BenchmarkItoalenWithDiv2/intlen_18-2            231188844                5.276 ns/op
+BenchmarkItoalenWithDiv2/intlen_19
+BenchmarkItoalenWithDiv2/intlen_19-2            195370489                5.934 ns/op
+BenchmarkItoalenWithBranch
+BenchmarkItoalenWithBranch/intlen_1
+BenchmarkItoalenWithBranch/intlen_1-2           385285706                3.139 ns/op
+BenchmarkItoalenWithBranch/intlen_2
+BenchmarkItoalenWithBranch/intlen_2-2           342338973                3.494 ns/op
+BenchmarkItoalenWithBranch/intlen_3
+BenchmarkItoalenWithBranch/intlen_3-2           381863481                3.148 ns/op
+BenchmarkItoalenWithBranch/intlen_4
+BenchmarkItoalenWithBranch/intlen_4-2           381426201                3.141 ns/op
+BenchmarkItoalenWithBranch/intlen_5
+BenchmarkItoalenWithBranch/intlen_5-2           344494039                3.475 ns/op
+BenchmarkItoalenWithBranch/intlen_6
+BenchmarkItoalenWithBranch/intlen_6-2           316393057                3.816 ns/op
+BenchmarkItoalenWithBranch/intlen_7
+BenchmarkItoalenWithBranch/intlen_7-2           313785484                3.815 ns/op
+BenchmarkItoalenWithBranch/intlen_8
+BenchmarkItoalenWithBranch/intlen_8-2           316250828                4.049 ns/op
+BenchmarkItoalenWithBranch/intlen_9
+BenchmarkItoalenWithBranch/intlen_9-2           337351600                3.478 ns/op
+BenchmarkItoalenWithBranch/intlen_10
+BenchmarkItoalenWithBranch/intlen_10-2          344451354                3.460 ns/op
+BenchmarkItoalenWithBranch/intlen_11
+BenchmarkItoalenWithBranch/intlen_11-2          267537939                4.495 ns/op
+BenchmarkItoalenWithBranch/intlen_12
+BenchmarkItoalenWithBranch/intlen_12-2          245758281                4.857 ns/op
+BenchmarkItoalenWithBranch/intlen_13
+BenchmarkItoalenWithBranch/intlen_13-2          266420746                4.495 ns/op
+BenchmarkItoalenWithBranch/intlen_14
+BenchmarkItoalenWithBranch/intlen_14-2          275538272                4.176 ns/op
+BenchmarkItoalenWithBranch/intlen_15
+BenchmarkItoalenWithBranch/intlen_15-2          265666156                4.584 ns/op
+BenchmarkItoalenWithBranch/intlen_16
+BenchmarkItoalenWithBranch/intlen_16-2          258798345                4.527 ns/op
+BenchmarkItoalenWithBranch/intlen_17
+BenchmarkItoalenWithBranch/intlen_17-2          247822093                4.825 ns/op
+BenchmarkItoalenWithBranch/intlen_18
+BenchmarkItoalenWithBranch/intlen_18-2          266743610                4.486 ns/op
+BenchmarkItoalenWithBranch/intlen_19
+BenchmarkItoalenWithBranch/intlen_19-2          290350936                4.132 ns/op
